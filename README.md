@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Systems Engineer who works across the full infrastructure spectrum — from raw Linux and bare-metal provisioning to cloud-native platforms and IoT systems. I care about reliability, automation, and making infrastructure boring in the best possible way.
+Systems Engineer who works across the full infrastructure spectrum, from raw Linux and bare-metal provisioning to cloud-native platforms and IoT systems. I care about reliability, automation, and making infrastructure boring.
 
 
 
